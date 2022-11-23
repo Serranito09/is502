@@ -1,3 +1,0 @@
-rellenar un vector de 10 con numeros aleatorios,crear 10 hilo los hilos de creacion par
-deberan comprobar si el numero situado en su posicion es primo o no  mntraas que los hilos 
-de creacion impares es perfecto o no 

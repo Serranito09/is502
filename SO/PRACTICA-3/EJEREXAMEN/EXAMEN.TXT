@@ -1,3 +1,0 @@
-implementar un prograama que reciba por linea de argumentos el numero de hilos a crear,se deberan de recibir dos numeros 
-tal que el primero sea el numero de hilos sumadores y el segundo el numero de hilos restadores,los hilos compartiran una variable globar 
-la cual estara inicializada a 0,el main tiene que comprobar tiene un numeero correcto

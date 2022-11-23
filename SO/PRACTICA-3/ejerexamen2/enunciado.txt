@@ -1,4 +1,0 @@
-tenemos un buffer general de tamaño 5,el main lo inicializa numeros aleatorios entre 0 y 20 ,
-tenemos que producir tantos productores y consumidores por lineas de argumentos,primer argumento productor segundo consumidores
-cada productor genera una posicion aleatoria,genera una cantidad aleatoria[10] y en esa posicion mete o saca la cantidad generada
-el main tiene que acabar imprimiendo la cantidad total producida y consumida

@@ -1,2 +1,0 @@
-realizar un algoritmo que reciba por linea de argumentos dos numeros que indicara el primer numero el numero de sumadores y 
-el segundo numero el de restadores,el valor debera ser devuelto y mostrado por pantalla.
