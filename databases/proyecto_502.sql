@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 23-11-2022 a las 19:01:08
+-- Tiempo de generación: 23-11-2022 a las 19:35:13
 -- Versión del servidor: 10.4.25-MariaDB
 -- Versión de PHP: 8.1.10
 
@@ -88,7 +88,23 @@ CREATE TABLE `usuarios` (
 
 INSERT INTO `usuarios` (`NOMBRE`, `EMAIL`, `ID_USUARIO`, `ID_ROL`, `ID_CURSO`) VALUES
 ('Rafa Ruiz Moure', 'rarumo@gmail.com', 1, 1, 0),
-('Pablo Torres Olmo', 'patool@gmail.com', 2, 2, 4);
+('Pablo Torres Olmo', 'patool@gmail.com', 2, 2, 4),
+('Alberto Quesada Valle', 'alqueval@gmail.com', 3, 3, 5),
+('Alvaro Serrano Lopez', 'alselo@gmail.com', 4, 4, 0),
+('Manuel Mata Uceda', 'mamauc@gmail.com', 5, 5, 0),
+('José Miguel López España', 'jmlesp@gmail.com', 6, 2, 5),
+('Pedro Núñez Bernardo', 'penuber@gmail.com', 7, 2, 0),
+('Fernando Alonso Díaz', 'lonsazo@gmail.com', 8, 2, 3),
+('Bruno Méndez de la Fuente', 'brunendez@gmail.com', 9, 3, 2),
+('Serafín Zapata Goicoechea', 'zapataechea@gmail.com', 10, 3, 3),
+('Maria José Santafiorentina Simón', 'santasimonmj@gmail.com', 11, 3, 1),
+('Javier Hamilton García ', 'hamilton44@gmail.com', 12, 3, 4),
+('Joaquín Sánchez Montes', 'joaquinismo@gmail.com', 13, 3, 6),
+('Máximo Verstappen Figueroa', 'verstapadre@gmail.com', 14, 2, 0),
+('Rafael Nadal Parera', 'padrura@gmail.com', 15, 2, 1),
+('Arturo Vicente Pérez', 'arvipeeee@gmail.com', 16, 2, 2),
+('Pedro de Quevedo Bueno', 'quedate@gmail.com', 17, 2, 3),
+('Roberto Mohedano Repiso', 'robertin@hotmail.com', 18, 2, 4);
 
 --
 -- Índices para tablas volcadas
