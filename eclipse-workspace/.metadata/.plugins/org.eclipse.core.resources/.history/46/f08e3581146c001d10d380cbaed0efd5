@@ -1,0 +1,15 @@
+using namespace std;
+#include <stdio.h>
+#include <iostream>
+
+int main(){
+	int op;
+
+	cout<<"       CURSOS DE EXTENSIÓN    "<<endl;
+	cout<<"     \n1-----VISUALIZACION DE CURSOS     "<<endl;
+	cout<<"     \n2-----LOGIN      "<<endl;
+	cout<<"		\n------Eliga la opción que desee\n"<<endl;
+	cin>>op;
+	
+
+}

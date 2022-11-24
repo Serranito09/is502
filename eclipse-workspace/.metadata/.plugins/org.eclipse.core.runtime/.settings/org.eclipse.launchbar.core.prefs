@@ -1,0 +1,9 @@
+LaunchTargetManager/configs/prueba2\ Debug\ (2)=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:prueba2 Debug,org.eclipse.launchbar.core.descriptorType.default\:prueba2 Debug (1),org.eclipse.launchbar.core.descriptorType.default\:prueba2 Debug (2)
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:prueba2\ Debug\ (2)/activeLaunchMode=profile
+org.eclipse.launchbar.core.descriptorType.default\:prueba2\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:prueba2\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

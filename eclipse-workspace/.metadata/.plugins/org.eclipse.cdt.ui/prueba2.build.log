@@ -1,0 +1,7 @@
+17:00:05 **** Incremental Build of configuration Debug for project prueba2 ****
+Info: Configuration "Debug" uses tool-chain "Cygwin GCC" that is unsupported on this system, attempting to build anyway.
+make all 
+make: No se hace nada para 'all'.
+
+17:00:05 Build Finished. 0 errors, 0 warnings. (took 272ms)
+

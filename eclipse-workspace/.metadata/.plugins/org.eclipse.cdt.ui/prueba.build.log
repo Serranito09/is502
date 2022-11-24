@@ -1,0 +1,12 @@
+16:53:51 **** Incremental Build of configuration Debug for project prueba ****
+make all 
+Building target: prueba
+Invoking: GCC C++ Linker
+g++ -L/home/alvaro/proyecto502-git/lib -o "prueba" ./main.o    -l/home/alvaro/proyecto502-git/lib
+/usr/bin/ld: no se puede encontrar -l/home/alvaro/proyecto502-git/lib: No existe el archivo o el directorio
+collect2: error: ld returned 1 exit status
+make: *** [makefile:58: prueba] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+16:53:51 Build Failed. 2 errors, 0 warnings. (took 320ms)
+

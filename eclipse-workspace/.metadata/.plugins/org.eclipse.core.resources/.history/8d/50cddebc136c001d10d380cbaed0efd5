@@ -1,0 +1,10 @@
+using namespace std;
+#include <stdio.h>
+#include <iostream>
+
+int main(){
+
+	cout<<"       CURSOS DE EXTENSION    "<<endl;
+	cout<<"       \n1-----INSCRIPCIÓN      "<<endl;
+
+}
