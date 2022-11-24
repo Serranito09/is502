@@ -22,6 +22,7 @@ int main()
         
         cout << "\nIngrese una opcion: ";
         cin >> opcion;
+         system("clear");
         
         switch (opcion) {
             case 1:   
@@ -40,7 +41,6 @@ int main()
                  cout << "0. SALIR" << endl;
                 cout << "\nIngrese una opcion: ";
                 cin>>tecla;
-                system("clear");
                 if(tecla==0){
                 break;
                 }
@@ -51,6 +51,7 @@ int main()
                  cout << "0. SALIR" << endl;
                 cout << "\nIngrese una opcion: ";
                 cin>>tecla;
+                  system("clear");
                 if(tecla==0){
                 break;
                 }
@@ -61,6 +62,7 @@ int main()
                  cout << "0. SALIR" << endl;
                 cout << "\nIngrese una opcion: ";
                 cin>>tecla;
+                  system("clear");
                 if(tecla==0){
                 break;
                 }
